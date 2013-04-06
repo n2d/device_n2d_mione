@@ -22,3 +22,4 @@ PRODUCT_MODEL := MI-One plus
 # default is nosdcard, S/W button enabled in resource
 DEVICE_PACKAGE_OVERLAYS := device/cnsys/mione/overlay
 #PRODUCT_CHARACTERISTICS := nosdcard
+
